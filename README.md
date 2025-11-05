@@ -6,4 +6,4 @@ in this used html, css , js . IN THIS WE USE ,card to match the card and solved 
 mainaly used html , css, javascript .
 main purpose of this project is to slve the programe..
 by this we  create the program for game which is created by html.
-by thiss very ...
+by thiss very .
